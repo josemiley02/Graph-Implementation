@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Miguel\\Escuela\\2DO AÑO\\EDA\\EDA 2\\Graph-Implementation\\Graph-Implementation.csproj": {}
+    "c:\\Miguel\\Escuela\\2DO AÑO\\EDA\\EDA 2\\Graph-Implementation\\Graph-Implementation.csproj": {}
   },
   "projects": {
-    "C:\\Miguel\\Escuela\\2DO AÑO\\EDA\\EDA 2\\Graph-Implementation\\Graph-Implementation.csproj": {
+    "c:\\Miguel\\Escuela\\2DO AÑO\\EDA\\EDA 2\\Graph-Implementation\\Graph-Implementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Miguel\\Escuela\\2DO AÑO\\EDA\\EDA 2\\Graph-Implementation\\Graph-Implementation.csproj",
+        "projectUniqueName": "c:\\Miguel\\Escuela\\2DO AÑO\\EDA\\EDA 2\\Graph-Implementation\\Graph-Implementation.csproj",
         "projectName": "Graph-Implementation",
-        "projectPath": "C:\\Miguel\\Escuela\\2DO AÑO\\EDA\\EDA 2\\Graph-Implementation\\Graph-Implementation.csproj",
+        "projectPath": "c:\\Miguel\\Escuela\\2DO AÑO\\EDA\\EDA 2\\Graph-Implementation\\Graph-Implementation.csproj",
         "packagesPath": "C:\\Users\\leyva\\.nuget\\packages\\",
-        "outputPath": "C:\\Miguel\\Escuela\\2DO AÑO\\EDA\\EDA 2\\Graph-Implementation\\obj\\",
+        "outputPath": "c:\\Miguel\\Escuela\\2DO AÑO\\EDA\\EDA 2\\Graph-Implementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\leyva\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\bin\Debug\net8.0\Graph-Implementation.exe
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\bin\Debug\net8.0\Graph-Implementation.deps.json
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\bin\Debug\net8.0\Graph-Implementation.runtimeconfig.json
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\bin\Debug\net8.0\Graph-Implementation.dll
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\bin\Debug\net8.0\Graph-Implementation.pdb
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\obj\Debug\net8.0\Graph-Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\obj\Debug\net8.0\Graph-Implementation.AssemblyInfoInputs.cache
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\obj\Debug\net8.0\Graph-Implementation.AssemblyInfo.cs
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\obj\Debug\net8.0\Graph-Implementation.csproj.CoreCompileInputs.cache
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\obj\Debug\net8.0\Graph-Implementation.sourcelink.json
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\obj\Debug\net8.0\Graph-Implementation.dll
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\obj\Debug\net8.0\refint\Graph-Implementation.dll
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\obj\Debug\net8.0\Graph-Implementation.pdb
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\obj\Debug\net8.0\Graph-Implementation.genruntimeconfig.cache
+C:\Miguel\Escuela\2DO AÑO\EDA\EDA 2\Graph-Implementation\obj\Debug\net8.0\ref\Graph-Implementation.dll
